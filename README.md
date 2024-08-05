@@ -8,7 +8,7 @@
   - 👀 I’m interested in *Project Management, Business Analysis, and Data Analysis*.
   - 🌱 I’m currently learning to become a skilled *Project Manager, Business Analyst, and Data Analyst*.
   - 💞️ I’m looking to collaborate on projects related to *project management, business analysis, or data analysis*.
-  - 📫 You can reach me through **Email** or **LinkedIn**.
+  - 📫 You can reach me through *Email* or *LinkedIn*.
   - 😄 Pronouns: She/Her
   - ⚡ Fun fact: I love backpacking and exploring new cultures.
   
@@ -16,7 +16,7 @@
   
 <div align="center">
     <a href="https://github.com/thanhthao2004">
-        <img src="https://github-readme-stats.vercel.app/api?username=thanhthao2004&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" width=100% 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhthao2004&theme=dracula&layout=compact" width=800, height=300 
  alt="Deepshikha yadav |Stats"/>
     </a>
     <a href="https://github.com/thanhthao2004">
@@ -25,12 +25,11 @@
     
   ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=thanhthao2004&theme=dracula&column=4&no-frame=true)
   
-    <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500"/>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhthao2004&theme=dracula&layout=compact)](https://github.com/thanhthao2004/github-readme-stats"/>
-   
-    </div>
+<img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500"/>
+
+   </div>
      
-    ## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
+## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
     
   ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=thanhthao2004&area=true&hide_border=true&theme=dracula)
   
