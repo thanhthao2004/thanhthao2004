@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @thanhthao2004
+- 👀 I’m interested in **Project Management, Business Analysis, and Data Analysis**.
+- 🌱 I’m currently learning to become a skilled **Project Manager, Business Analyst, and Data Analyst**.
+- 💞️ I’m looking to collaborate on projects related to project management, business analysis, or data analysis.
+- 📫 You can reach me through **Email** or **LinkedIn**.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love backpacking and exploring new cultures.
