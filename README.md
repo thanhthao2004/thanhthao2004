@@ -16,23 +16,25 @@
   
 <div align="center">
     <a href="https://github.com/thanhthao2004">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhthao2004&theme=dracula&layout=compact" width=800, height=300 
- alt="Deepshikha yadav |Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhthao2004&theme=dracula&layout=compact" width=500 
+ alt="Thanh Thao |Stats"/>
     </a>
     <a href="https://github.com/thanhthao2004">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhthao2004&theme=dracula&hide_border=true"  width=100% alt="thanhthao2004"/>
-    </a>
-    
-  ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=thanhthao2004&theme=dracula&column=4&no-frame=true)
-  
-<img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhthao2004&theme=dracula&hide_border=true"  width=800 heigh=300 alt="thanhthao2004"/>
 
    </div>
      
-## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
+## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution</b>
     
-  ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=thanhthao2004&area=true&hide_border=true&theme=dracula)
+<div>
+        </a>
+        <a href="https://github.com/thanhthao2004">
+        <img src="https://github-profile-trophy.vercel.app/?username=thanhthao2004&theme=dracula&column=8&no-frame=true"  width=100% alt="thanhthao2004"/>
+    </a>
   
+<img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="600"/>
+
+</div>
   
   ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
   
@@ -43,6 +45,6 @@
   [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?fs=1&to=thaotran.analyst@gmail.com&tf=cm)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/thao-tran-98b4812a8/)
   
-  
+
   
   [![GitHub thanhthao2004](https://img.shields.io/github/followers/thanhthao2004?label=follow&style=social&logoColor=black)](https://github.com/thanhthao2004)
