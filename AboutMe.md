@@ -5,7 +5,7 @@
   ### Welcome to My GitHub 👩‍💻💻
   
   - 👋 Hi, I’m Tran Thi Thanh Thao
-  - 👀 I’m interested in *Project Management, Business Analysis, and Data Analysis*.
+  - 👀 I’m interested in **Project Management, Business Analysis, and Data Analysis**.
   - 🌱 I’m currently learning to become a skilled *Project Manager, Business Analyst, and Data Analyst*.
   - 💞️ I’m looking to collaborate on projects related to *project management, business analysis, or data analysis*.
   - 📫 You can reach me through *Email* or *LinkedIn*.
