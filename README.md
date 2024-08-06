@@ -48,3 +48,8 @@
 
   
   [![GitHub thanhthao2004](https://img.shields.io/github/followers/thanhthao2004?label=follow&style=social&logoColor=black)](https://github.com/thanhthao2004)
+  ## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
