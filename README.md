@@ -43,7 +43,7 @@
   ## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
     
   [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?fs=1&to=thaotran.analyst@gmail.com&tf=cm)
-  [![Linkedin](https://www.linkedin.com/in/tran-thi-thanh-thao-98b4812a8/)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/tran-thi-thanh-thao-98b4812a8/)
   
 
   
