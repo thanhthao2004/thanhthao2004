@@ -5,9 +5,9 @@
   ### Welcome to My GitHub 👩‍💻💻
   
   - 👋 Hi, I’m Tran Thi Thanh Thao
-  - 👀 I’m interested in **Data Analyst**.
-  - 🌱 I’m currently learning to become a skilled *Data Analyst*.
-  - 💞️ I’m looking to collaborate on projects related to *Data Analyst*.
+  - 👀 I’m interested in **Data Analyst** and **Business Analyst**
+  - 🌱 I’m currently learning to become a skilled *Data Analyst* and *Business Analyst*
+  - 💞️ I’m looking to collaborate on projects related to *Data Analyst* and *Business Analyst*
   - 📫 You can reach me through *Email* or *LinkedIn*.
   - 😄 Pronouns: She/Her
   - ⚡ Fun fact: I love backpacking and exploring new cultures.
