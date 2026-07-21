@@ -42,4 +42,43 @@ I am a **Technical Business Analyst** with hands-on experience supporting AI aut
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge&logo=postman&logoC
+  <img src="https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+</p>
+
+### ⚙️ Agile & Workflows
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/thanhthao2004">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thanhthao2004&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400&title_color=36BCF7" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thanhthao2004&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400&title_color=36BCF7" height="150" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/thanhthao2004">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhthao2004&theme=dracula&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" alt="GitHub Streak" />
+  </a>
+</div>
+
+
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+</p>
