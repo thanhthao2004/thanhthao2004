@@ -27,7 +27,7 @@ I am a **Technical Business Analyst** with hands-on experience supporting AI aut
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 ### 🎯 Business Analysis & Prototyping
 <p>
@@ -67,11 +67,11 @@ I am a **Technical Business Analyst** with hands-on experience supporting AI aut
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/thanhthao2004">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhthao2004&theme=dracula&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" alt="GitHub Streak" />
   </a>
-</div>
+</div> -->
 
 
 
