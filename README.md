@@ -18,7 +18,9 @@
 
 ## 👩‍💻 Professional Summary
 
-I am a **Technical Business Analyst** with hands-on experience supporting AI automation and multi-tenant SaaS initiatives. I specialize in translating complex business requirements into clear functional specifications (BRDs, BPMN models, user stories) and bridging the gap between stakeholders and cross-functional Agile teams. **I'm looking for new job opportinuties as a Technical Business Analyst**
+I am a **Technical Business Analyst** with hands-on experience supporting AI automation and multi-tenant SaaS initiatives. I specialize in translating complex business requirements into clear functional specifications (BRDs, BPMN models, user stories) and bridging the gap between stakeholders and cross-functional Agile teams. 
+
+**I'm looking for new job opportinuties as a Technical Business Analyst.**
 
 - 💼 **Currently:** Technical Business Analyst (full-time) @ **TMA Solutions** | Data Analytics Mentor @ **MindX Technology Center**
 - 🎓 **Education:** Bachelor of Engineering in Information Systems (Very good degree) (Industrial University of Ho Chi Minh City)
