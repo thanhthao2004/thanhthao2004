@@ -20,7 +20,7 @@
 
 I am a **Technical Business Analyst** with hands-on experience supporting AI automation and multi-tenant SaaS initiatives. I specialize in translating complex business requirements into clear functional specifications (BRDs, BPMN models, user stories) and bridging the gap between stakeholders and cross-functional Agile teams.
 
-- 💼 **Currently:** Technical Business Analyst Intern @ **TMA Solutions** | Data Analytics Mentor @ **MindX Technology Center**
+- 💼 **Currently:** Technical Business Analyst (full-time) @ **TMA Solutions** | Data Analytics Mentor @ **MindX Technology Center**
 - 🎓 **Education:** Bachelor of Engineering in Information Systems (Industrial University of Ho Chi Minh City)
 - 🧠 **Expertise:** Requirement Elicitation, Workflow Mapping, Data Analytics, AI Automation workflow, Multi-tenant SaaS workflow, Business rules.
 - 💞️ **Looking to collaborate on:** Open-source projects related to AI-driven SaaS, Data Architecture or Business Intelligence.
